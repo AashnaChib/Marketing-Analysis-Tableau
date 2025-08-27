@@ -6,6 +6,3 @@
 This dashboard analyzes marketing campaign performance across regions, 
 channels, and time. It tracks user behavior, conversion paths, and revenue 
 trends to highlight high-performing strategies.
-
-### Preview
-![Dashboard Screenshot](images/dashboard_preview.png)
